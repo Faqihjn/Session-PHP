@@ -1,0 +1,40 @@
+/* CSS untuk Home */
+
+.bg{
+    background-color: rgb(238, 238, 238);
+    background-image:url("bg.jpg") ;
+    background-attachment: fixed;
+    background-size: auto 150%;
+    background-position: center;
+    width: 1350px;
+    height: 550px;
+}
+
+.mediq {
+    margin-left: 5px;
+    font-size: 32px;
+}
+
+.word1{
+    padding-top: 200px;
+    color: white;
+}
+
+.logo{
+    width: 180px;
+    height: 50px;
+}
+
+.nav-bar{
+    margin-right: 50px;
+}
+
+/* CSS untuk doctor */
+
+
+
+/* CSS untuk Footer */
+footer{
+    background-color: rgb(19, 64, 116);
+    color: white;
+}

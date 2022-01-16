@@ -1,0 +1,67 @@
+.mid{
+    text-align: center;
+    font-family:cursive;
+    margin: 10px;
+}
+
+
+/* CSS untuk Home */
+
+.bg{
+    background-color: rgb(238, 238, 238);
+    background-image:url("bg.jpg") ;
+    background-attachment: fixed;
+    background-size: auto 150%;
+    background-position: left;
+    width: 1350px;
+    height: 650px;
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    width: 100%;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: auto;
+    margin-left: 0;
+}
+.mediq {
+    margin-left: 5px;
+    font-size: 32px;
+}
+
+.word1{
+    padding-top: 220px;
+    color: white;
+}
+
+.logo{
+    width: 180px;
+    height: 50px;
+}
+
+.nav-bar{
+    margin-right: 50px;
+}
+
+/* CSS untuk doctor */
+
+.c-doc{
+   margin-top: 2rem;
+   margin-bottom: 2rem;
+   margin-left: 12rem;
+   max-width: 750px;
+}
+
+/* CSS untuk about */
+
+.mh{
+    width: 1100px;
+    height: 500px;
+    margin: 20px;
+}
+
+/* CSS untuk Footer */
+footer{
+    background-color: rgb(19, 64, 116);
+    color: white;
+}
